@@ -1,0 +1,159 @@
+.cont{
+    background-color:#f10c7f ;
+    width: 100%;
+
+}
+.navbar-brand
+{
+    font-size: 40px;
+    color:#f10c7f;
+    font-style: italic;
+}
+
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 50px;
+}
+.btn1  {
+    background:  transparent;
+    width: 120px;
+    height: 40px;
+    border-radius: 0px;
+    border:  2px solid white;
+    display:  inline-block;
+    float:  none;
+    text-align: center;
+    
+   // padding:  0px!important;
+    font-size:  14px;
+    color:  #fff;
+}
+.btn2
+{
+    background:  transparent;
+    width: 120px;
+    height: 40px;
+    border-radius: 0px;
+    border:  2px solid #f10c7f;
+    display:  inline-block;
+    float:  none;
+    text-align: center;
+    
+    
+ 
+    font-size:  14px;
+    color: #f10c7f;
+}
+.btn3
+{
+   
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden; 
+    background:  transparent;
+    width: 120px;
+    height: 40px;
+    
+    float:  none;
+    text-align: center;
+    
+ 
+    font-size:  14px;
+    color: #f10c7f;
+}
+
+h3{
+    color: #f10c7f;
+    text-align: center;
+
+}
+
+.p1{
+    text-align: center;
+    color: black;
+}
+.navbar-default
+{
+background-color: #ffffff;
+min-height: 80px;
+padding: 10px 10px;
+
+}
+.navbrand
+{
+    font-size: 40px; 
+    font-style: italic;
+    color: #ff0000;
+}
+.navul
+{
+    color: #ff0000;
+    font-style: normal;
+}
+
+.img
+{
+    width: 100%;
+    height:500px;
+}
+.sline
+{
+    color: red;
+    width: 50px;
+}
+    .col2
+    {
+        background-color: #f10c7f;
+        color: white;
+        align-content: center;
+        
+    }
+    
+    .bt
+    {
+        
+        text-align: center;
+    }
+    .footer
+    {
+        
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: black;
+        color: white;
+        //text-align: center;
+     
+
+    }
+    .centered {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        text-align: center;
+       
+
+    }
+    .foot-col
+    {
+        text-align: left;
+        
+    }
+    .line2{
+        width: 300px;
+        height: 1px;
+        background:black;
+        display: inline-block;
+}
+.line1{
+    width: 200px;
+    height: 2px;
+    background:#b80d26;
+    display: inline-block;
+    justify-self: center;
+
+}
